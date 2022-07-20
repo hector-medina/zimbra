@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-conf
+Binary: zimbra-common-mbox-conf
+Architecture: amd64
+Version: 9.0.0.1656544293-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-conf - Zimbra Core Mailbox Configuration
+Changes:
+ zimbra-common-mbox-conf (9.0.0.1656544293-1.u20) stable; urgency=medium
+ .
+   * Release - 9.0.0.1656544293
+Checksums-Sha1:
+ 39de1ddc5302d90c8271c7f73ff8969034d5e069 5243 zimbra-common-mbox-conf_9.0.0.1656544293-1.u20_amd64.buildinfo
+ b97879ca5cdc982ab35810af8abb120f27891e5e 4304 zimbra-common-mbox-conf_9.0.0.1656544293-1.u20_amd64.deb
+Checksums-Sha256:
+ 928873ba969971698d769785b4b25668bb9be34952460606867123b8b00e39bb 5243 zimbra-common-mbox-conf_9.0.0.1656544293-1.u20_amd64.buildinfo
+ db1afb3f9a17795fe1edefeddd3cd87be4a280a37d7e536ccde16a18d816a2b8 4304 zimbra-common-mbox-conf_9.0.0.1656544293-1.u20_amd64.deb
+Files:
+ 327ae89fbd72a7dba329337163fb9611 5243 mail optional zimbra-common-mbox-conf_9.0.0.1656544293-1.u20_amd64.buildinfo
+ 1c7de4b496b46aaa0f9da55eb2fbde6d 4304 mail optional zimbra-common-mbox-conf_9.0.0.1656544293-1.u20_amd64.deb

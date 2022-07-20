@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-common-mbox-conf-attrs
+Binary: zimbra-common-mbox-conf-attrs
+Architecture: amd64
+Version: 9.0.0.1652767366-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-common-mbox-conf-attrs - Zimbra Core Mailbox Attributes Configuration
+Changes:
+ zimbra-common-mbox-conf-attrs (9.0.0.1652767366-1.u20) stable; urgency=medium
+ .
+   * Release - 9.0.0.1652767366
+Checksums-Sha1:
+ 55cee025387fa3b8e1c0a9f766041760f058a506 5276 zimbra-common-mbox-conf-attrs_9.0.0.1652767366-1.u20_amd64.buildinfo
+ e37bd776fabba1060aeb250629e50c5c3351273f 81692 zimbra-common-mbox-conf-attrs_9.0.0.1652767366-1.u20_amd64.deb
+Checksums-Sha256:
+ 90d8c59b4473ad3821f784af6fc1182574852cb5fd7498d3ba5d3ecaa3dc8caf 5276 zimbra-common-mbox-conf-attrs_9.0.0.1652767366-1.u20_amd64.buildinfo
+ b4240334802556f49c751eb9d25c64d41281abb5d760e5e87babc2d24bab0e87 81692 zimbra-common-mbox-conf-attrs_9.0.0.1652767366-1.u20_amd64.deb
+Files:
+ 025241a3dbcad3bb213a3bd84eb0d7d7 5276 mail optional zimbra-common-mbox-conf-attrs_9.0.0.1652767366-1.u20_amd64.buildinfo
+ 1b735b61c25e57db3c74c5d26b1df49b 81692 mail optional zimbra-common-mbox-conf-attrs_9.0.0.1652767366-1.u20_amd64.deb

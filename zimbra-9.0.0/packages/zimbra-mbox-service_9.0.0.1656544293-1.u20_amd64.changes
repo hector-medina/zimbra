@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 01 Mar 2017 01:43:10 +0530
+Source: zimbra-mbox-service
+Binary: zimbra-mbox-service
+Architecture: amd64
+Version: 9.0.0.1656544293-1.u20
+Distribution: stable
+Urgency: medium
+Maintainer: Zimbra Packaging Services <build@zimbra.com>
+Changed-By: Zimbra Builder (builder) <build@zimbra>
+Description:
+ zimbra-mbox-service - Zimbra Mailbox Service
+Changes:
+ zimbra-mbox-service (9.0.0.1656544293-1.u20) stable; urgency=medium
+ .
+   * Release - 9.0.0.1656544293
+Checksums-Sha1:
+ 686754d3711e4b48670a8be6b999a823f6267187 5223 zimbra-mbox-service_9.0.0.1656544293-1.u20_amd64.buildinfo
+ 88d8c0d7d0c2d53eb73f3c1dc512ee1f6c29cd7d 1252 zimbra-mbox-service_9.0.0.1656544293-1.u20_amd64.deb
+Checksums-Sha256:
+ aee068b05f81f6687e21937d16a12d00d723b69514a2312a7328c35dd1f4bd1d 5223 zimbra-mbox-service_9.0.0.1656544293-1.u20_amd64.buildinfo
+ 1f3d27024132f853c64d1f391e4e7d66296595f0fd5afa6f80b2be1f90a8db06 1252 zimbra-mbox-service_9.0.0.1656544293-1.u20_amd64.deb
+Files:
+ 3793e0aec170f26b0594110ebcf2ab53 5223 mail optional zimbra-mbox-service_9.0.0.1656544293-1.u20_amd64.buildinfo
+ 2739144d2f6b6596a35a522b30bc1c7d 1252 mail optional zimbra-mbox-service_9.0.0.1656544293-1.u20_amd64.deb
