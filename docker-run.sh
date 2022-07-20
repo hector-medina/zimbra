@@ -13,5 +13,5 @@ docker run -d \
     -p 8443:8443 \
     -p 7071:7071 \
     -p 9071:9071 \
-    -v /zimbra:/opt/zimbra \
+    -v zimbra:/opt/zimbra \
     zimbra
